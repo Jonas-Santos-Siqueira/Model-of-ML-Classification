@@ -1,1 +1,1 @@
-- Machine Learning Classification.
+- Model of Machine Learning Classification.
